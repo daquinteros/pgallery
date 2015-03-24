@@ -1,8 +1,8 @@
 
 body {
-  background-color: #c4dce1; /* change background color */
+  background-color: #103b71; /* change background color */
   text-align: center;
-  color: #000;  /* change font color */
+  color: #31e228;  /* change font color */
   line-height: 36px;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
@@ -23,8 +23,8 @@ h1, h2, h3, h4 {
 }
 
 h1 {
-  font-size: 36px; /* change */
-  line-height: 36px;
+  font-size: 26px; /* change */
+  line-height: 26px;
   margin: 1.6875rem 0;
 }
 
